@@ -1,1 +1,24 @@
 # prework-study-guide
+
+## Description
+
+This guide was created as part of a pre-work coding bootcamp. It is aimed for students whishing to understand basic coding skills in HTML, CSS, JavaScript and Git.
+
+## Installation
+
+N/A
+
+## Usage
+
+Each subject has got a list of topics within to help students' worklfow through HTML, CSS, JavaScript and Git.
+
+For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+
+## Credits
+
+N/A
+
+## License
+
+Please refer to the LICENSE in the repo.
+
